@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'media/generate_test_*.py'
+      - 'media/generate_guide_*.py'
       - '.github/workflows/nexo-assets.yml'
   workflow_dispatch:
 permissions:
@@ -21,6 +22,7 @@ jobs:
         run: |
           python media/generate_test_01.py
           python media/generate_test_02.py
+          python media/generate_guide_03.py
       - name: Commit images
         run: |
           git config user.name 'nexo-media-bot'

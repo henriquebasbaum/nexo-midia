@@ -7,6 +7,7 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 | 2026-10-02 | Carrossel | Apresentação do Nexo: testes de IA no cotidiano, sem promessas mágicas | Qual tarefa repetitiva gostaria de automatizar? | https://www.instagram.com/p/Dd_suo8jGDV/ | 17903728641352281 |
 | 2026-10-03 | Carrossel de 5 imagens | Experimento 01: transformar ideias em planos de ação | Salvar prompt para usar com uma ideia parada | https://www.instagram.com/p/DeCTlxLDfpO/ | 18121095871731345 |
 | 2026-10-04 | Carrossel de 4 imagens | Guia prático 02: privacidade e dados que não enviar à IA | Salvar checklist de segurança | https://www.instagram.com/p/DeE_-LDjaEn/ | 18199853305344839 |
+| 2026-10-05 | Carrossel de 4 imagens | Guia 03: como identificar respostas inventadas/alucinações de IA | Salvar checklist de verificação | https://www.instagram.com/p/DeHaNOTDTB4/ | 18076188383477915 |
 
 ## Política editorial
 - Até dois posts de feed em dias de conteúdo qualificado, separados idealmente por pelo menos 8 horas; nunca volume obrigatório.

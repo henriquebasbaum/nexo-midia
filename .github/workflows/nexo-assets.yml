@@ -23,6 +23,7 @@ jobs:
           python media/generate_test_01.py
           python media/generate_test_02.py
           python media/generate_guide_03.py
+          python media/generate_experiment_04.py
       - name: Commit images
         run: |
           git config user.name 'nexo-media-bot'

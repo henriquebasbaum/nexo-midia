@@ -14,3 +14,4 @@ slide(2,"DÊ 4 PEÇAS",["CONTEXTO +","OBJETIVO +","LIMITES + SAÍDA"],["Contexto
 slide(3,"EXEMPLO PRÁTICO",["TROQUE O","PEDIDO VAGO"],["Em vez de: 'Crie uma pauta.'","Diga público e objetivo.","Defina 3 temas a evitar.","Peça 5 ideias em tabela curta."],BLUE)
 slide(4,"ANTES DE ENVIAR",["FAÇA O TESTE","DOS 10 SEGUNDOS"],["A IA sabe para quem é?","Sabe qual resultado você quer?","Conhece os limites?","Sabe como entregar a resposta?"],MINT)
 print("Created 4 JPEG slides")
+

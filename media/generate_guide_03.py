@@ -26,3 +26,4 @@ card(2,"TESTE 1",["PEÇA A FONTE","E CONFIRA"],["Solicite links, datas e origem.
 card(3,"TESTE 2",["FORCE A IA A","MOSTRAR DÚVIDA"],["Pergunte: 'O que nesta resposta","você não consegue verificar?'","Boa resposta admite incerteza","em vez de preencher lacunas."],YELLOW)
 card(4,"TESTE 3",["CRUZE A","INFORMAÇÃO"],["Compare com outra fonte confiável.","Para decisões importantes,","não use uma única resposta de IA","como evidência final."],MINT)
 print("Created 4 JPEG slides")
+

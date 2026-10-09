@@ -51,3 +51,28 @@ card6(2,"PASSO 1 — ANONIMIZE",["TIRE DADOS","SENSÍVEIS"],["Remova telefone, e
 card6(3,"PASSO 2 — COMPARE",["VAGA X","EXPERIÊNCIA"],["Peça: 'Liste requisitos da vaga","que meu currículo comprova.'","'Separe lacunas sem inventar.'","'Sugira palavras mais claras.'"],MINT)
 card6(4,"PASSO 3 — REVISE",["VOCÊ ASSINA","O RESULTADO"],["Confirme cargos, datas e números.","Exclua habilidades inventadas.","Revise tom e legibilidade.","Só então envie a candidatura."],YELLOW)
 print("Created 4 JPEG slides for Guia 06")
+
+
+# Experimento 07: estudo ativo com IA em blocos de 5 minutos.
+P7=Path("assets/experimento-07-estudo");P7.mkdir(parents=True,exist_ok=True)
+def card7(i,kicker,title,lines,accent):
+ im=Image.new("RGB",(W,H),BG);d=ImageDraw.Draw(im)
+ d.rounded_rectangle((64,70,425,132),28,fill=accent)
+ d.text((88,85),"NEXO / EXPERIMENTO 07",font=ft(22,True),fill=BG)
+ d.text((66,190),kicker,font=ft(28,True),fill=accent)
+ y=310
+ for t in title:
+  d.text((66,y),t,font=ft(60,True),fill=WHITE);y+=92
+ y+=38
+ d.rounded_rectangle((66,y,1014,1110),30,fill="#1B2C40",outline="#405A73",width=3)
+ yy=y+43
+ for line in lines:
+  d.text((101,yy),line,font=ft(33),fill=MUTED);yy+=89
+ d.text((66,1255),"@oi.sou.nexo  •  IA COM CRITÉRIO",font=ft(22,True),fill=accent)
+ d.text((938,1255),f"{i}/4",font=ft(24,True),fill=WHITE)
+ im.save(P7/f"{i:02}.jpg",quality=94,optimize=True)
+card7(1,"ESTUDO ATIVO, NÃO RESUMO INFINITO",["15 MINUTOS","COM IA"],["Escolha um tema pequeno.","Peça uma explicação curta.","Depois, responda sem consultar.","Aprender não é só ler."],MINT)
+card7(2,"PRIMEIROS 5 MINUTOS",["UM TEMA,","UMA META"],["Ex.: entender juros compostos.","Diga seu nível e objetivo.","Peça um exemplo bem simples.","Anote uma ideia central."],YELLOW)
+card7(3,"PRÓXIMOS 5 MINUTOS",["TESTE A","MEMÓRIA"],["Peça 3 perguntas sem gabarito.","Responda antes de ver correção.","Se travar, peça uma pista.","Não pule direto à resposta."],MINT)
+card7(4,"ÚLTIMOS 5 MINUTOS",["REVISE E","REPITA"],["Explique com suas palavras.","Anote o que ainda confunde.","Revise amanhã sem consultar.","O objetivo é entender, não copiar."],YELLOW)
+print("Created 4 JPEG slides for Experimento 07")

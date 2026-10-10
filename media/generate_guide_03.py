@@ -51,3 +51,27 @@ card6(2,"PASSO 1 — ANONIMIZE",["TIRE DADOS","SENSÍVEIS"],["Remova telefone, e
 card6(3,"PASSO 2 — COMPARE",["VAGA X","EXPERIÊNCIA"],["Peça: 'Liste requisitos da vaga","que meu currículo comprova.'","'Separe lacunas sem inventar.'","'Sugira palavras mais claras.'"],MINT)
 card6(4,"PASSO 3 — REVISE",["VOCÊ ASSINA","O RESULTADO"],["Confirme cargos, datas e números.","Exclua habilidades inventadas.","Revise tom e legibilidade.","Só então envie a candidatura."],YELLOW)
 print("Created 4 JPEG slides for Guia 06")
+
+# Guia 08 — comparar opcoes com IA sem delegar a decisao.
+P8=Path("assets/guia-08-comparacao");P8.mkdir(parents=True,exist_ok=True)
+def card8(i,kicker,title,lines,accent):
+ im=Image.new("RGB",(W,H),BG);d=ImageDraw.Draw(im)
+ d.rounded_rectangle((64,70,350,128),26,fill=accent)
+ d.text((88,83),"NEXO / GUIA 08",font=ft(24,True),fill=BG)
+ d.text((66,190),kicker,font=ft(29,True),fill=accent)
+ y=315
+ for t in title:
+  d.text((66,y),t,font=ft(59,True),fill=WHITE);y+=91
+ y+=48
+ d.rounded_rectangle((66,y,1014,1110),30,fill="#1B2C40",outline="#3B566F",width=3)
+ yy=y+38
+ for s in lines:
+  d.text((101,yy),s,font=ft(32),fill=MUTED);yy+=91
+ d.text((66,1255),"@oi.sou.nexo  •  IA COM CRITÉRIO",font=ft(22,True),fill=accent)
+ d.text((938,1255),f"{i}/4",font=ft(24,True),fill=WHITE)
+ im.save(P8/f"{i:02}.jpg",quality=94,optimize=True)
+card8(1,"DECISÃO COM CRITÉRIO",["COMPARE DUAS","OPÇÕES COM IA"],["A IA pode organizar critérios,","prós, contras e incertezas.","Mas a decisão continua sua."],MINT)
+card8(2,"PASSO 1 — DEFINA",["O QUE MAIS","IMPORTA?"],["Liste preço, tempo e qualidade.","Diga quais critérios são essenciais.","Inclua seu orçamento e limites.","Não use só uma nota geral."],YELLOW)
+card8(3,"PASSO 2 — QUESTIONE",["PEÇA UMA","COMPARAÇÃO"],["Monte uma tabela lado a lado.","Separe fatos de suposições.","Peça riscos e pontos desconhecidos.","Confira dados nas fontes."],MINT)
+card8(4,"PASSO 3 — DECIDA",["VOCÊ TEM","A PALAVRA"],["O que muda se o preço subir?","Qual opção atende suas prioridades?","Que informação falta verificar?","Decida com base no seu contexto."],YELLOW)
+print("Created 4 JPEG slides for Guia 08")

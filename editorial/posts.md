@@ -13,6 +13,8 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 | 2026-10-08 | Carrossel de 4 imagens | Guia 06: adaptar currículo com IA sem inventar experiências | Comparar requisitos com experiências reais | https://www.instagram.com/p/DePukhukapu/ | 18129298984691228 |
 | 2026-10-09 | Carrossel de 4 imagens | Experimento 07: estudar 15 minutos com IA | Testar uma sessão curta de estudo com revisão | https://www.instagram.com/p/DeSbeLFDpEb/ | 17951044632270794 |
 
+| 2026-10-10 | Carrossel de 4 imagens | Guia 08: comparar duas opções com IA sem delegar a decisão | Salvar o prompt e comentar uma decisão a comparar | https://www.instagram.com/p/DeVAKWziRSs/ | Pendente de sincronização Windsor (Metricool: publicado, ID 392784883) |
+
 ## Política editorial
 - Até dois posts de feed em dias de conteúdo qualificado, separados idealmente por pelo menos 8 horas; nunca volume obrigatório.
 - Consultar feed com horário de coleta explícito e histórico (mais fila de posts programados); impedir post e CTA repetidos.

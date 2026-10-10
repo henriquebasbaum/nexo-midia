@@ -24,6 +24,9 @@ jobs:
           python media/generate_test_02.py
           python media/generate_guide_03.py
           python media/generate_experiment_04.py
+      - name: Render vertical Reel video
+        run: |
+          ffmpeg -y -framerate 1/5 -i assets/reel-01-prompt-claro/%02d.jpg -vf 'scale=1080:1920,format=yuv420p' -r 30 -c:v libx264 -pix_fmt yuv420p -movflags +faststart assets/reel-01-prompt-claro/reel.mp4
       - name: Commit images
         run: |
           git config user.name 'nexo-media-bot'

@@ -11,6 +11,7 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 | 2026-10-06 | Carrossel de 4 imagens | Experimento 04: usar IA para encurtar e-mails sem perder decisão, prazo e ação | Testar o prompt em um e-mail longo anonimizado e comparar antes/depois | https://www.instagram.com/p/DeLElF9jFsB/ | 18142702291591987 |
 | 2026-10-07 | Carrossel de 4 imagens | Guia 05: contexto, objetivo, limites e formato para prompts úteis | Compartilhar tarefa que gera resposta genérica | https://www.instagram.com/p/DeNgE-3jdxd/ | 17890686837615883 |
 | 2026-10-08 | Carrossel de 4 imagens | Guia 06: adaptar currículo com IA sem inventar experiências | Comparar requisitos com experiências reais | https://www.instagram.com/p/DePukhukapu/ | 18129298984691228 |
+| 2026-10-09 | Carrossel de 4 imagens | Experimento 07: estudar 15 minutos com IA | Testar uma sessão curta de estudo com revisão | https://www.instagram.com/p/DeSbeLFDpEb/ | 17951044632270794 |
 
 ## Política editorial
 - Até dois posts de feed em dias de conteúdo qualificado, separados idealmente por pelo menos 8 horas; nunca volume obrigatório.

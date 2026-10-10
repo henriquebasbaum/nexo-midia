@@ -75,3 +75,27 @@ card8(2,"PASSO 1 — DEFINA",["O QUE MAIS","IMPORTA?"],["Liste preço, tempo e q
 card8(3,"PASSO 2 — QUESTIONE",["PEÇA UMA","COMPARAÇÃO"],["Monte uma tabela lado a lado.","Separe fatos de suposições.","Peça riscos e pontos desconhecidos.","Confira dados nas fontes."],MINT)
 card8(4,"PASSO 3 — DECIDA",["VOCÊ TEM","A PALAVRA"],["O que muda se o preço subir?","Qual opção atende suas prioridades?","Que informação falta verificar?","Decida com base no seu contexto."],YELLOW)
 print("Created 4 JPEG slides for Guia 08")
+
+# Reel 01 — demonstração concreta: um pedido vago vs. pedido útil.
+PR=Path("assets/reel-01-prompt-claro");PR.mkdir(parents=True,exist_ok=True)
+def reel_slide(i,kicker,head,lines,accent):
+ im=Image.new("RGB",(1080,1920),BG);d=ImageDraw.Draw(im)
+ d.rounded_rectangle((64,90,400,160),28,fill=accent)
+ d.text((91,107),"NEXO / TESTE REAL",font=ft(26,True),fill=BG)
+ d.text((70,285),kicker,font=ft(37,True),fill=accent)
+ y=420
+ for s in head:
+  d.text((70,y),s,font=ft(64,True),fill=WHITE);y+=100
+ y+=85
+ d.rounded_rectangle((65,y,1015,1470),32,fill="#1B2C40",outline="#3B566F",width=3)
+ yy=y+60
+ for s in lines:
+  d.text((100,yy),s,font=ft(39),fill=MUTED);yy+=110
+ d.text((70,1780),"@oi.sou.nexo   •   IA NA PRÁTICA",font=ft(25,True),fill=accent)
+ d.text((940,1780),f"{i}/4",font=ft(26,True),fill=WHITE)
+ im.save(PR/f"{i:02}.jpg",quality=94,optimize=True)
+reel_slide(1,"ANTES / DEPOIS",["UM PROMPT VAGO","MUDA TUDO?"],["Veja duas formas de pedir","a mesma tarefa à IA.","A diferença está no contexto.","Sem fórmula mágica."],YELLOW)
+reel_slide(2,"PEDIDO VAGO",["'FAÇA UM","PLANO DE ESTUDO'"],["Sem tema, nível ou prazo,","a resposta tende a ser genérica.","Falta dizer o que importa."],YELLOW)
+reel_slide(3,"PEDIDO CLARO",["DÊ CONTEXTO","E LIMITES"],["'Tenho 15 minutos por dia.","Sou iniciante em inglês.","Crie 3 tarefas de prática.","Inclua revisão semanal.'"],MINT)
+reel_slide(4,"TESTE VOCÊ",["COMPARE AS","DUAS RESPOSTAS"],["Veja qual é mais aplicável.","Cheque fatos e ajuste o plano.","Salve e teste com sua tarefa."],MINT)
+print("Created 4 vertical JPEG frames for Reel 01")

@@ -98,4 +98,4 @@ reel_slide(1,"ANTES / DEPOIS",["UM PROMPT VAGO","MUDA TUDO?"],["Veja duas formas
 reel_slide(2,"PEDIDO VAGO",["'FAÇA UM","PLANO DE ESTUDO'"],["Sem tema, nível ou prazo,","a resposta tende a ser genérica.","Falta dizer o que importa."],YELLOW)
 reel_slide(3,"PEDIDO CLARO",["DÊ CONTEXTO","E LIMITES"],["'Tenho 15 minutos por dia.","Sou iniciante em inglês.","Crie 3 tarefas de prática.","Inclua revisão semanal.'"],MINT)
 reel_slide(4,"TESTE VOCÊ",["COMPARE AS","DUAS RESPOSTAS"],["Veja qual é mais aplicável.","Cheque fatos e ajuste o plano.","Salve e teste com sua tarefa."],MINT)
-print("Created 4 vertical JPEG frames for Reel 01")
+print("Created 4 vertical JPEG frames for Reel 01 — ready for MP4 render")

@@ -23,3 +23,11 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 - Publicar somente artes autorais JPEG verificadas, sem placeholders; conferir texto, ortografia e coerência.
 - Verificar permalink e legenda após publicar, registrar a confirmação neste histórico.
 - Caso não haja dados suficientemente recentes para garantir ausência de duplicação, suspender nova publicação e informar o usuário.
+
+## Identidade visual oficial — aprovada em 11/10/2026
+- Mascote canônico: **Nexo**, criatura pequena e arredondada azul-turquesa/ciano, textura macia, olhos grandes brilhantes com pupilas escuras, sorriso delicado, bracinhos e pezinhos curtos, acompanhado de uma **estrela laranja de quatro pontas**. Referência principal: imagem de perfil enviada pelo proprietário em 11/10/2026. **Não substituir por robô humanoide, capacete, moletom ou outro personagem.**
+- Estilo aprovado: **animação 3D cinematográfica acolhedora**, com iluminação quente, detalhes em azul-ciano e laranja, ambiente de mesa/escritório confortável, expressões faciais e gestos expressivos do mascote; composição vertical 9:16 para Reels.
+- Linguagem: português brasileiro claro, simpático, educativo, descontraído, sem promessas exageradas; Nexo é o apresentador recorrente.
+- Estrutura de Reel de referência aprovada visualmente: 25–30 segundos, gancho visual imediato, Nexo mostra um prompt vago, reação à resposta genérica, demonstra prompt com objetivo/público/formato/tom/limitações, compara resposta mais útil, fecha com dica e convite para seguir. Texto na tela como complemento legível, não como slides estáticos dominantes.
+- **Importante:** a arte aprovada foi um storyboard de 9 quadros, não vídeo animado final. Para publicar, criar e validar movimento contínuo, narração/áudio sincronizado e demonstração factual; revisar ortografia e legibilidade de toda a arte. Não alegar que storyboard é Reel pronto.
+- Aprovado pelo usuário explicitamente: “Excelente, grave isso como o padrão de identidade visual para o perfil.” Este guia prevalece sobre os estilos anteriores de Reel com robô branco ou apenas texto.

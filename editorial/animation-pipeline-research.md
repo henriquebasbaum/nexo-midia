@@ -19,3 +19,9 @@ Nexo **não pode flutuar como sticker**. Precisa ter atuação: sincronia de boc
 
 ## Diagnóstico de 12/10
 No ambiente de execução atual há ffmpeg e espeak, mas não há Blender nem Piper instalados; por isso o pipeline **não foi validado** e nenhum novo Reel foi autorizado. Próximo teste: criar rig de Nexo em Blender, gerar um trecho falado de 5–8s e inspecionar frames e sincronização. Não chamar carrossel ou vídeo com recorte estático de 'animação 3D'.
+
+## Atualização de engenharia — 13/10/2026
+- Teste local de 8 segundos realizado com **Pillow + FFmpeg + espeak pt-BR** (540×960, 18 fps, H.264/AAC). Modelo 2D desenhado por partes: olhos com piscadas, boca abrindo/fechando em função do envelope RMS do áudio, braços articulados com gestos, mudança de expressão/caixa de prompt e legendas. MP4 foi gerado e inspecionado localmente.
+- **Resultado:** demonstra que é tecnicamente possível fazer Nexo atuar e falar sem simplesmente mover um PNG, mas o visual ainda é 2D simplificado, não corresponde com fidelidade à referência canônica e não possui visemas fonéticos precisos. **NÃO APROVADO PARA PUBLICAÇÃO** e não confundir com o pipeline Blender 3D.
+- O script Blender 3D com rig procedural e envelope de voz foi escrito e passou por verificação de sintaxe, porém não foi executado: Blender continua indisponível neste ambiente. Próxima validação deve ocorrer em runner com Blender instalado, gerando 5–8 s e inspecionando resultado visual antes de qualquer publicação.
+- Publicação do carrossel pronto foi tentada uma vez em 13/10 08h BRT pelo Windsor e novamente bloqueada pelas verificações de segurança do conector antes da execução. Não foi publicado; não insistir na mesma rodada. As leituras do Instagram e Metricool não mostraram novo post em 12/10 ou 13/10 até a coleta, mas os dados Windsor podem estar em cache.

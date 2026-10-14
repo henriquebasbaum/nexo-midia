@@ -33,3 +33,12 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 - Estrutura de Reel de referência aprovada visualmente: 25–30 segundos, gancho visual imediato, Nexo mostra um prompt vago, reação à resposta genérica, demonstra prompt com objetivo/público/formato/tom/limitações, compara resposta mais útil, fecha com dica e convite para seguir. Texto na tela como complemento legível, não como slides estáticos dominantes.
 - **Importante:** a arte aprovada foi um storyboard de 9 quadros, não vídeo animado final. Para publicar, criar e validar movimento contínuo, narração/áudio sincronizado e demonstração factual; revisar ortografia e legibilidade de toda a arte. Não alegar que storyboard é Reel pronto.
 - Aprovado pelo usuário explicitamente: “Excelente, grave isso como o padrão de identidade visual para o perfil.” Este guia prevalece sobre os estilos anteriores de Reel com robô branco ou apenas texto.
+
+## Indicadores — 14/10/2026, 17h56 BRT
+- Fonte Windsor Instagram, coleta UTC 2026-10-14T20:56:49Z: 7 seguidores.
+- Carrossel 14/10 (media_id 17985164871093439): alcance 2, 3 visualizações, 0 salvamentos, 0 compartilhamentos, 0 comentários. Dados iniciais, não conclusivos.
+- Reel 11/10: alcance 9, 16 visualizações, 0 salvamentos, 0 compartilhamentos.
+- Carrossel 10/10: alcance 3, 7 visualizações, 0 salvamentos, 0 compartilhamentos.
+- Nenhum comentário novo retornado para 11–14/10. Metricool não retornou agendamentos futuros até 21/10.
+- Melhor horário da Metricool: todos os scores zero (amostra insuficiente).
+- Próxima ideia editorial (ainda sem arte): notas fictícias de reunião → ações, prazos conhecidos e dúvidas, sem inventar responsáveis ou decisões.

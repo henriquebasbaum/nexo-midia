@@ -15,6 +15,8 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 
 | 2026-10-10 | Carrossel de 4 imagens | Guia 08: comparar duas opções com IA sem delegar a decisão | Salvar o prompt e comentar uma decisão a comparar | https://www.instagram.com/p/DeVAKWziRSs/ | Pendente de sincronização Windsor (Metricool: publicado, ID 392784883) |
 
+| 2026-10-14 | Carrossel de 4 imagens | Experimento 09: organizar 90 minutos, 3 tarefas, 10 minutos de margem (exemplo ilustrativo) | Salvar e adaptar prioridades | https://www.instagram.com/p/DeectTGCKHe/ | 17985164871093439 |
+
 ## Política editorial
 - Até dois posts de feed em dias de conteúdo qualificado, separados idealmente por pelo menos 8 horas; nunca volume obrigatório.
 - Consultar feed com horário de coleta explícito e histórico (mais fila de posts programados); impedir post e CTA repetidos.

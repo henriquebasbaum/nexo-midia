@@ -42,3 +42,9 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 - Nenhum comentário novo retornado para 11–14/10. Metricool não retornou agendamentos futuros até 21/10.
 - Melhor horário da Metricool: todos os scores zero (amostra insuficiente).
 - Próxima ideia editorial (ainda sem arte): notas fictícias de reunião → ações, prazos conhecidos e dúvidas, sem inventar responsáveis ou decisões.
+
+## Execução 15/10/2026, 13h01 BRT
+- Windsor Instagram (data_fetched_at 2026-10-15T16:01:48Z): carrossel de 14/10 media_id 17985164871093439 com alcance 3, 6 visualizações, 0 salvamentos e 0 compartilhamentos. Seguidores: 7, coleta 2026-10-15T11:04:24Z (cache; não afirmar dado em tempo real).
+- Windsor comentários 14–15/10: nenhuma linha retornada. Metricool agendamentos 14–18/10: somente publicação já concluída de 14/10, sem posts futuros.
+- Criado e confirmado no GitHub o gerador original `media/generate_experimento_10.py` (commit `02bb69156bd33cf3abdc4ee688f43b101ebaac05`), para quatro JPGs sobre transformar notas de reunião em tarefas sem inventar responsáveis. **JPGs ainda não gerados/hospedados, post NÃO agendado nem publicado.**
+- Tentativa de criar `.github/workflows/render-nexo-10.yml` bloqueada por verificações de segurança. Não repetir a mesma operação sem mudança de condições. Procurar método autorizado para renderizar e disponibilizar imagens públicas, mantendo controle de qualidade.

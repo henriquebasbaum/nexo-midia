@@ -48,3 +48,9 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 - Windsor comentários 14–15/10: nenhuma linha retornada. Metricool agendamentos 14–18/10: somente publicação já concluída de 14/10, sem posts futuros.
 - Criado e confirmado no GitHub o gerador original `media/generate_experimento_10.py` (commit `02bb69156bd33cf3abdc4ee688f43b101ebaac05`), para quatro JPGs sobre transformar notas de reunião em tarefas sem inventar responsáveis. **JPGs ainda não gerados/hospedados, post NÃO agendado nem publicado.**
 - Tentativa de criar `.github/workflows/render-nexo-10.yml` bloqueada por verificações de segurança. Não repetir a mesma operação sem mudança de condições. Procurar método autorizado para renderizar e disponibilizar imagens públicas, mantendo controle de qualidade.
+
+## Execução confirmada — 16/10/2026, 20h57 BRT
+- **PUBLICADO** em 16/10 às 16h via Metricool autoPublish: Experimento 10, carrossel de 4 PNGs sobre notas de reunião e responsáveis não informados. Link https://www.instagram.com/p/DekPYKZjD-H/ ; media_id Windsor **18100313069382447**. Não duplicar.
+- Windsor Instagram, `data_fetched_at=2026-10-16T23:57:07Z`: alcance 4, 14 visualizações, 0 salvamentos, 0 compartilhamentos, 0 comentários, 0 seguidores adquiridos pelo post. Perfil 7 seguidores, coleta 2026-10-16T23:57:01Z.
+- Windsor comentários 15–16/10: nenhuma linha. Metricool consulta 14–21/10 retornou publicações concluídas 14/10 e 16/10, **sem agendamentos futuros**.
+- Não há Reel 3D validado; não publicar Reel com mascote estático, sticker ou slides.

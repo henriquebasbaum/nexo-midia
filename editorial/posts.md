@@ -54,3 +54,9 @@ Antes de cada nova publicação, consultar o feed atual E este registro, incluin
 - Windsor Instagram, `data_fetched_at=2026-10-16T23:57:07Z`: alcance 4, 14 visualizações, 0 salvamentos, 0 compartilhamentos, 0 comentários, 0 seguidores adquiridos pelo post. Perfil 7 seguidores, coleta 2026-10-16T23:57:01Z.
 - Windsor comentários 15–16/10: nenhuma linha. Metricool consulta 14–21/10 retornou publicações concluídas 14/10 e 16/10, **sem agendamentos futuros**.
 - Não há Reel 3D validado; não publicar Reel com mascote estático, sticker ou slides.
+
+## Verificação — 17/10/2026, 10h05 BRT
+- Windsor Instagram: último dado disponível de seguidores 7 (coleta 2026-10-17T10:59:11Z, cerca de 7h59 BRT; não é tempo real). Dados de mídia atualizados em 2026-10-17T13:05:42Z: post 16/10, media_id 18100313069382447, alcance 4, visualizações 14, curtidas 4, comentários 0, salvamentos 0, compartilhamentos 0. Nenhum comentário novo retornado para 16–17/10.
+- Metricool 16–21/10: apenas post de 16/10 já PUBLISHED; nenhum agendamento futuro. Melhor horário da semana sem sinal (todos scores 0).
+- Novo tema de conteúdo a desenvolver: Experimento 11 — usar IA para propor jantares simples a partir de arroz já cozido, ovos e cenoura, separando extras opcionais e pedindo quantidades ausentes. Tema distinto dos posts anteriores, exemplo ilustrativo, sem inventar preços ou afirmar resultado de teste não executado.
+- Tentativa de criar o gerador original media/generate_test_11.py via GitHub create_file foi bloqueada por verificações de segurança. Não há arte publicada, agendamento ou novo arquivo confirmado. Não repetir a mesma chamada sem mudança de condições; buscar método autorizado. Não há Reel 3D validado.
